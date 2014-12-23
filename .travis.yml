@@ -1,9 +1,6 @@
 # Run repoman on travis
 # https://github.com/urras/repoman-travis
 #
-# Run repoman via travis
-# See https://github.com/mrueg/repoman-travis
-#
 language: python
 python:
     - "3.4"
